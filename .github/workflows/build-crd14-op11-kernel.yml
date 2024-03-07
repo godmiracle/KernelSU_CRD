@@ -1,4 +1,4 @@
-name: Build OnePlus 11  14 Kernel
+name: Build OnePlus 11 crdroid 14 Kernel
 on:
   schedule:
     - cron: '0 18 * * 0,2,4,6'
